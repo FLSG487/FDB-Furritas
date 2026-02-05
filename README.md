@@ -1,5 +1,5 @@
 # FDB-Furritas
-Trabajo de unoverisdad donde se gara na base d etaos y se trrata de hacer eao,go que sirva
+Trabajo de universidad donde se hara una base de datos o tratar y que funcione
 
 Readme de mi trabajo iniciade deocm crar esto que acavo de hacer
 
